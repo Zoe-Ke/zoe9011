@@ -1,3 +1,8 @@
+<body>
+  <div class="bg-image" style="background-image: url(https://github.com/Zoe-Ke/zoe9011/blob/master/img/2019-07-26%2006.09.18%202.jpg);"></div>
+</body>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Zoe-Ke/zoe9011/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
